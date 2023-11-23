@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "teapot-nz"
+version = "0.1.0"
+description = ""
+authors = ["Olly Ewert <olly@ewert.co.nz>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pelican-neighbors = {extras = ["markdown"], version = "^1.2.0"}
+pelican-sitemap = "^1.1.0"
+pelican-related-posts = "^1.0.0"
+pelican-share-post = "^1.1.0"
+pelican-tag-cloud = "^1.0.1"
+pelican-search = "^1.1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.3"
+black = "^23.11.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
