@@ -1,6 +1,6 @@
 AUTHOR = 'Olly'
 SITENAME = 'Teapot'
-SITEURL = ''
+SITEURL = 'https://teapot.nz/'
 
 PATH = 'content'
 
@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = True
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 THEME = "themes/simplify-theme"
 
