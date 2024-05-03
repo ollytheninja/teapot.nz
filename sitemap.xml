@@ -6,42 +6,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://teapot.nz/</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://teapot.nz/archives.html</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://teapot.nz/author/olly.html</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://teapot.nz/authors.html</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://teapot.nz/categories.html</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://teapot.nz/category/post.html</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,7 +62,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://teapot.nz/tags.html</loc>
-<lastmod>2024-05-03T17:06:21-00:00</lastmod>
+<lastmod>2024-05-03T17:10:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
