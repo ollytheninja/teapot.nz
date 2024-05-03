@@ -5,64 +5,64 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/archives.html</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/olly.html</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/author/olly.html</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/authors.html</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/categories.html</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/post.html</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/category/post.html</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about.html</loc>
+<loc>https://teapot.nz/pages/about.html</loc>
 <lastmod>2024-11-08T19:28:00+13:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/2023/11/welcome-to-teapotnz/</loc>
+<loc>https://teapot.nz/posts/2023/11/welcome-to-teapotnz/</loc>
 <lastmod>2023-11-08T19:28:00+13:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2024-05-03T17:03:46-00:00</lastmod>
+<loc>https://teapot.nz/tags.html</loc>
+<lastmod>2024-05-03T17:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
